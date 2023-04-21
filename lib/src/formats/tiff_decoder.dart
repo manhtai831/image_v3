@@ -1,4 +1,4 @@
-import '../../image.dart';
+import '../../image_v3.dart';
 
 class TiffDecoder extends Decoder {
   TiffInfo? info;

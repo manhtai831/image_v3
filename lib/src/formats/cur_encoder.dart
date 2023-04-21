@@ -1,4 +1,4 @@
-import '../../image.dart';
+import '../../image_v3.dart';
 import 'ico_encoder.dart';
 
 class CurEncoder extends WinEncoder {

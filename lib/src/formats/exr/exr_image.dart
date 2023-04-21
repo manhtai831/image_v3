@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import '../../../image.dart';
+import '../../../image_v3.dart';
 import 'exr_part.dart';
 
 class ExrImage extends DecodeInfo {
